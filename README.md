@@ -19,37 +19,43 @@ Click on the "ga_sessions_" table to open it.
 
 **Question 1: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month**
 
-**SQL Code**
+_**SQL Code**_
 
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/d1916659-7e4e-41f6-bd43-fb0b188cf765)
 
-**Query result 1**
+_**Query result 1**_
 
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/149f1c41-c15f-4ecb-b03e-1b5cab5fc8f9)
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/c0c1d57e-b9a6-41f8-84a6-67db06cfbde0)
+
 ---
 **Question 2: Bounce rate per traffic source in July 2017**
 
-**SQL Code**
+_**SQL Code**_
+
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/4f188ac7-b92e-4f46-b8a8-4e045c31b076)
 
-**Query result 2**
+_**Query result 2**_
 
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/aa9ec837-ef9b-41e3-b849-b98bdd3b69f3)
+
 ---
-**Question 3**
+**Question 3: Revenue by traffic source by week, by month in June 2017**
 
-**SQL Code**
-
-**Query result 3**
+_**SQL Code**_
 
 ![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/70bb9090-4e0d-4575-b0c2-f3142a15418f)
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/52b366b3-0519-489e-93e9-74e9a8b79bd1)
+
+_**Query result 3**_
+
+
 ---
-**Question 4**
+**Question 4: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017.**
 
-**Query result 4**
+_**SQL Code**_
 
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/7ebb9465-9bda-4484-ad69-d28e266a7d8f)
+
+_**Query result 4**_
+
+
 ---
 **Question 5**
 
