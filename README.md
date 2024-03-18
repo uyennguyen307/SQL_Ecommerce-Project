@@ -2,11 +2,7 @@
 This project contains an eCommerce dataset that I will explore using SQL on Google BigQuery. The dataset is based on the Google Analytics public dataset and contains data from an eCommerce website.
 
 # II. Requirements
-In this project, complete 08 query with expected output in Bigquery base on Google Analytics dataset to fulfill analysis requests.
-Google Cloud Platform account
-Project on Google Cloud Platform
-Google BigQuery API enabled
-SQL query editor or IDE
+Complete 08 query with expected output in Bigquery base on Google Analytics dataset to fulfill analysis requests.
 
 # III. Dataset Access
 The eCommerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
@@ -66,7 +62,7 @@ _**SQL Code**_
 
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/aa017c47-2687-4de5-bfa8-4796234c31f0)
 
-**Query result 5**
+_**Query result 5**_
 
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/93d25d06-528e-43a7-b4d4-434b283d0ae7)
 
@@ -77,24 +73,27 @@ _**SQL Code**_
 
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/297b5e83-d7fc-4635-a7fa-6c5966c18f6b)
 
-**Query result 6**
+_**Query result 6**_
 
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/9314f6d4-e63c-478f-aefc-1ba62dc01e1f)
 ---
 **Question 7: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.**
 
 _**SQL Code**_
+
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/b62c9733-3378-4a21-9068-ea7f5c8d5c86)
 
-**Query result 7**
-
+_**Query result 7**_
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/2f0f1cd4-299c-4821-b451-5dcc8894730d)
 
 
 ---
 **Question 8:Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase**
 
 _**SQL Code**_
+
 ![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/cd9d5473-d440-44ec-b76e-b0593e4e3639)
 
-**Query result 8**
+_**Query result 8**_
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/27610560-c30a-4557-a23e-a1c66cba53f9)
 
