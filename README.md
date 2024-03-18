@@ -36,6 +36,7 @@ _**SQL Code**_
 
 _**Query result 2**_
 
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/48e29473-6ebb-4a54-8d70-b7af0a1b6cec)
 
 ---
 **Question 3: Revenue by traffic source by week, by month in June 2017**
@@ -46,37 +47,48 @@ _**SQL Code**_
 
 _**Query result 3**_
 
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/1b85e451-4030-4602-9b44-422e3a65d667)
 
 ---
 **Question 4: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017.**
 
 _**SQL Code**_
-
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/1783d746-8c46-402a-8c28-297cef463aa5)
 
 _**Query result 4**_
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/bfcb7876-be30-49c5-8cc3-e5fbe7dc7069)
 
 
 ---
-**Question 5**
+**Question 5: Average number of transactions per user that made a purchase in July 2017**
+
+_**SQL Code**_
+
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/aa017c47-2687-4de5-bfa8-4796234c31f0)
 
 **Query result 5**
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/2a78bd86-2fe4-41b4-bb1a-ecf1e148f5ec)
+
 
 ---
-**Question 6**
+**Question 6: Average amount of money spent per session. Only include purchaser data in July 2017**
+_**SQL Code**_
+
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/297b5e83-d7fc-4635-a7fa-6c5966c18f6b)
 
 **Query result 6**
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/9abb8f70-e9b4-4ebf-8994-6466de394b77)
+
 
 ---
 **Question 7**
+_**SQL Code**_
 
 **Query result 7**
 
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/ea4172ca-7468-4bbe-a4d0-ca6630463225)
+
 
 ---
 **Question 8**
+_**SQL Code**_
 
 **Query result 8**
-![image](https://github.com/uyennguyen307/Ecommerce-Project/assets/162019618/33044e51-b8d0-48db-b9d1-0f15cee85dce)
+
