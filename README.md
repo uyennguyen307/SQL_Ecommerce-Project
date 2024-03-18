@@ -68,6 +68,8 @@ _**SQL Code**_
 
 **Query result 5**
 
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/93d25d06-528e-43a7-b4d4-434b283d0ae7)
+
 
 ---
 **Question 6: Average amount of money spent per session. Only include purchaser data in July 2017**
@@ -77,18 +79,22 @@ _**SQL Code**_
 
 **Query result 6**
 
-
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/9314f6d4-e63c-478f-aefc-1ba62dc01e1f)
 ---
-**Question 7**
+**Question 7: Other products purchased by customers who purchased product "YouTube Men's Vintage Henley" in July 2017. Output should show product name and the quantity was ordered.**
+
 _**SQL Code**_
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/b62c9733-3378-4a21-9068-ea7f5c8d5c86)
 
 **Query result 7**
 
 
 
 ---
-**Question 8**
+**Question 8:Calculate cohort map from product view to addtocart to purchase in Jan, Feb and March 2017. For example, 100% product view then 40% add_to_cart and 10% purchase**
+
 _**SQL Code**_
+![image](https://github.com/uyennguyen307/SQL_Ecommerce-Project/assets/162019618/cd9d5473-d440-44ec-b76e-b0593e4e3639)
 
 **Query result 8**
 
