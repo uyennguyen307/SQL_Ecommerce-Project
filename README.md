@@ -15,6 +15,7 @@ Click on the "ga_sessions_" table to open it.
 
 # IV. Explore Data
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
+
 https://console.cloud.google.com/bigquery?sq=86925067577:b7266a7f1e7c461a9c51373ea341c6f2
 
 **Question 1: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month**
