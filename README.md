@@ -13,6 +13,10 @@ In the navigation panel, select "Add Data" and then "Search a project".
 Enter the project ID "bigquery-public-data.google_analytics_sample.ga_sessions" and click "Enter".
 Click on the "ga_sessions_" table to open it.
 
+# IV. Explore Data
+In this project, I will write 08 query in Bigquery base on Google Analytics dataset
+https://console.cloud.google.com/bigquery?sq=86925067577:b7266a7f1e7c461a9c51373ea341c6f2
+
 **Question 1: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month**
 
 _**SQL Code**_
