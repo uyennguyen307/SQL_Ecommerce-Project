@@ -7,11 +7,11 @@ Complete 08 query with expected output in Bigquery base on Google Analytics data
 # III. Dataset Access
 The eCommerce dataset is stored in a public Google BigQuery dataset. To access the dataset, follow these steps:
 
-Log in to your Google Cloud Platform account and create a new project.
-Navigate to the BigQuery console and select your newly created project.
-In the navigation panel, select "Add Data" and then "Search a project".
-Enter the project ID "bigquery-public-data.google_analytics_sample.ga_sessions" and click "Enter".
-Click on the "ga_sessions_" table to open it.
+- Log in to your Google Cloud Platform account and create a new project.
+- Navigate to the BigQuery console and select your newly created project.
+- In the navigation panel, select "Add Data" and then "Search a project".
+- Enter the project ID "bigquery-public-data.google_analytics_sample.ga_sessions" and click "Enter".
+- Click on the "ga_sessions_" table to open it.
 
 # IV. Explore Data
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
